@@ -1,0 +1,10 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/login/page": "/login",
+  "/dashboard/page": "/dashboard",
+  "/register/page": "/register",
+  "/tasks/page": "/tasks",
+  "/page": "/",
+  "/projects/page": "/projects",
+  "/users/page": "/users"
+}

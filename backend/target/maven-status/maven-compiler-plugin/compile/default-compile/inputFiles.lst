@@ -1,0 +1,10 @@
+/Users/imadalkiswani/home/projects/taskEE/backend/src/main/java/com/example/taskmanager/model/Project.java
+/Users/imadalkiswani/home/projects/taskEE/backend/src/main/java/com/example/taskmanager/model/Role.java
+/Users/imadalkiswani/home/projects/taskEE/backend/src/main/java/com/example/taskmanager/model/Task.java
+/Users/imadalkiswani/home/projects/taskEE/backend/src/main/java/com/example/taskmanager/model/User.java
+/Users/imadalkiswani/home/projects/taskEE/backend/src/main/java/com/example/taskmanager/service/JwtService.java
+/Users/imadalkiswani/home/projects/taskEE/backend/src/main/java/com/example/taskmanager/service/UserService.java
+/Users/imadalkiswani/home/projects/taskEE/backend/src/main/java/com/example/taskmanager/web/AuthResource.java
+/Users/imadalkiswani/home/projects/taskEE/backend/src/main/java/com/example/taskmanager/web/ProjectResource.java
+/Users/imadalkiswani/home/projects/taskEE/backend/src/main/java/com/example/taskmanager/web/TaskResource.java
+/Users/imadalkiswani/home/projects/taskEE/backend/src/main/java/com/example/taskmanager/web/TaskWebSocket.java

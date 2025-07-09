@@ -1,0 +1,10 @@
+com/example/taskmanager/model/User.class
+com/example/taskmanager/model/Project.class
+com/example/taskmanager/service/JwtService.class
+com/example/taskmanager/service/UserService.class
+com/example/taskmanager/web/TaskResource.class
+com/example/taskmanager/web/ProjectResource.class
+com/example/taskmanager/web/TaskWebSocket.class
+com/example/taskmanager/model/Role.class
+com/example/taskmanager/model/Task.class
+com/example/taskmanager/web/AuthResource.class
